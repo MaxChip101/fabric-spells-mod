@@ -1,0 +1,12 @@
+{
+  "item.spellmod.evocation_spell_item":  "Evocation Spell",
+  "item.spellmod.lightning_spell_item":  "Lightning Spell",
+  "item.spellmod.shulker_spell_item": "Shulker Spell",
+  "item.spellmod.wither_spell_item": "Wither Spell",
+  "item.spellmod.wand_item": "Spell Wand",
+  "item.spellmod.warden_spell_item": "Warden Spell",
+  "item.spellmod.dragon_spell_item": "Dragon Spell",
+  "item.spellmod.wind_spell_item": "Wind Spell",
+
+  "itemgroup.spells": "Fabric Spells Mod"
+}

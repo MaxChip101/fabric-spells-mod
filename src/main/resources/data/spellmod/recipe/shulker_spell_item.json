@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "spells",
+  "key": {
+    "A": {
+      "item": "minecraft:paper"
+    },
+    "B": {
+      "item": "minecraft:ink_sac"
+    },
+    "C": {
+      "item": "minecraft:shulker_shell"
+    },
+    "D": {
+      "item": "minecraft:spire_armor_trim_smithing_template"
+    }
+  },
+  "pattern": [
+    "ACA",
+    "ADA",
+    "ABA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "spellmod:shulker_spell_item"
+  }
+}

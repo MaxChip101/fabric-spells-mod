@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "spells",
+  "key": {
+    "A": {
+      "item": "minecraft:paper"
+    },
+    "B": {
+      "item": "minecraft:ink_sac"
+    },
+    "C": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "D": {
+      "item": "minecraft:rib_armor_trim_smithing_template"
+    }
+  },
+  "pattern": [
+    "ACA",
+    "ADA",
+    "ABA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "spellmod:wither_spell_item"
+  }
+}
